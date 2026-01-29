@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building and refining AI-powered web applications, with a focus on recommendation systems, backend APIs, and ML integration.<br>👯 I’m looking to collaborate on<br>Projects involving full-stack development, NLP, or applied machine learning, especially ideas that solve real student or developer problems.<br>🤝 I’m looking for help with<br>Improving system design, scaling ML services, and learning best practices for production-ready deployments.<br>🌱 I’m currently learning<br>Advanced backend architecture, ML model deployment, and how to design scalable, maintainable systems.<br>💬 Ask me about<br>FastAPI, MERN stack, NLP-based recommendation systems, SBERT, or turning academic projects into real applications.<br>⚡ Fun fact<br>I trust a system only after breaking it at least once.
+🔭 I’m currently working on<br>Building and refining AI-powered web applications, with a focus on recommendation systems, backend APIs, and ML integration.<br>
+👯 I’m looking to collaborate on<br>Projects involving full-stack development, NLP, or applied machine learning, especially ideas that solve real world problems.<br>
+🤝 I’m looking for help with<br>Improving system design, scaling ML services, and learning best practices for production-ready deployments.<br>
+🌱 I’m currently learning<br>Advanced backend architecture, ML model deployment, and how to design scalable, maintainable systems.<br>
+💬 Ask me about<br>FastAPI, MERN stack, NLP-based recommendation systems, SBERT, or turning academic projects into real applications.<br>
+⚡ Fun fact<br>I trust a system only after breaking it at least once.
 
 
 ## 🌐 Socials:
